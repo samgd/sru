@@ -131,5 +131,3 @@ dependencies:
     - tokenizers==0.7.0
     - tqdm==4.46.0
     - werkzeug==1.0.1
-prefix: /home/sam/.conda/envs/sru
-
